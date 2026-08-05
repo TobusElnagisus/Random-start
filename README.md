@@ -1,3 +1,2 @@
-execute install.sh, then
-add this script to your .bashrc:   
+execute install.sh, then add to your .bashrc:           
 python3 ~/.ran/rand-start.py
